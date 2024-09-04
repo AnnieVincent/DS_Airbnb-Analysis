@@ -21,8 +21,6 @@ data/: Contains the raw dataset files.
 notebooks/: Jupyter notebooks for data preprocessing steps.
 scripts/: Python scripts for preprocessing tasks.
 results/: Generated preprocessed dataset files or summary reports.
-Usage
-Clone the repository to your local machine: git clone https://github.com/elaavs1997@gamil.com/airbnb-preprocessing.git
 
 Navigate to the project directory: cd airbnb-preprocessing
 
